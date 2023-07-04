@@ -1,0 +1,2 @@
+Oracle version 19.
+Oracle sql developer
